@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <content><![CDATA[<h1 class="title topictitle1"><strong>Using the NeedIt Form</strong></h1>
+<p><strong>Use the NeedIt application to request services and goods from several departments.</strong></p>
+<ul class="steps-unordered"><li class="li step"><strong>Legal</strong></li><li class="li step"><strong>Human Resources</strong></li></ul>
+<ul><li><strong>Facilities</strong></li></ul>
+<h2 class="title sectiontitle"><strong>NeedIt Form Fields</strong></h2>
+<p class="p">Add text to the <em>NeedIt Form Fields</em> section.</p>
+<ol class="steps-ordered"><li class="li step stepexpand">Download the <a href="https://developer.servicenow.com/dev_download.do?sysparm_filename&#61;files/numberedlisttext.txt&amp;sysparm_project&#61;app_store_learnv2_contextsenstivehelp_newyork"><strong>NumberedListText.txt</strong></a> file.</li><li class="li step stepexpand">Open the <em>NumberedListText.txt</em> file in the text editor of your choice.</li><li class="li step stepexpand">Copy the contents of the <em>NumberedListText.txt</em> file.</li><li class="li step stepexpand">Paste the copied text into the Embedded Help content underneath the <em>NeedIt Form Fields</em> section title.</li><li class="li step stepexpand">Format the pasted text as a numbered list.
+<ol class="ol substeps"><li class="li step stepexpand substep">In the Content editor, highlight the text you pasted.</li></ol>
+</li></ol>
+<div class="note tm-element"><span class="notetitle">Note:</span></div>
+<p><strong>When creating NeedIt requests, the <em>When needed</em> date cannot be today or in the <a title="form fields" href="https://docs.servicenow.com/bundle/newyork-platform-user-interface/page/use/using-forms/concept/c_FormFields.html#c_FormFields" target="_blank" rel="noopener">form fields</a></strong></p>]]></content>
+        <last_sync/>
+        <modifier>normal</modifier>
+        <name>NeedIt Form - User</name>
+        <page>x_58872_needit_needit</page>
+        <product>1</product>
+        <qualifier/>
+        <role display_value="x_58872_needit.needit_user" name="x_58872_needit.needit_user">4e42fb8d0fa83200cd674f8ce1050e72</role>
+        <role_order>1000</role_order>
+        <snc_created>false</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-06 14:39:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5e238949dbc41010c4b09fd2ca9619e8</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>NeedIt Form - User</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_embedded_help_content_5e238949dbc41010c4b09fd2ca9619e8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-06 15:05:34</sys_updated_on>
+        <version>all</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=5e238949dbc41010c4b09fd2ca9619e8"/>
+</record_update>
